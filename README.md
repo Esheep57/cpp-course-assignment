@@ -9,9 +9,9 @@
 
 ## Commit Message 規範
 
-- 我們遵循以下格式的commit message：
+我們遵循以下格式的commit message：
 
-- <action>: <description>
+`<action>: <description>`
 
 
 ### Action
